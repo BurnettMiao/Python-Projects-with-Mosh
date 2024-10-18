@@ -16,6 +16,8 @@
 #         print('Words.txt does not exist.')
 #         return []
 
+
+# practice
 def read_words():
     try:
         with open('word.txt', 'r') as file:
