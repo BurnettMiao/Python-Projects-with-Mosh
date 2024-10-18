@@ -1,4 +1,3 @@
-<<<<<<< HEAD:practice.py
 # def read_words():
 #     try:
 #         with open('words.txt', 'r') as file:
@@ -33,7 +32,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-=======
->>>>>>> 0315646907d1ef396d4b3f9ba792b9c66a6e8981:test.py
