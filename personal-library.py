@@ -1,6 +1,6 @@
 library = {
-    '我是書名': {'author': '我是作者', 'is_read': False},
-    'book one': {'author': 'author', 'is_read': False},
+    'Vue學習手冊': {'author': '黃銘偉', 'is_read': False},
+    'Vue3 從零開始：基礎邁向實務': {'author': '張智翔', 'is_read': False},
 }
 
 # 顯示選單
